@@ -1,0 +1,13 @@
+PyQt6
+PyQt6-Qt6
+PyQt6-sip
+pysrt==1.1.2
+tqdm==4.66.5
+--index-url https://download.pytorch.org/whl/cu121
+torch==2.2.1+cu121
+torchvision==0.17.1+cu121
+torchaudio==2.2.1+cu121
+openai-whisper==20231117
+requests==2.31.0
+ffmpeg-python==0.2.0
+moviepy==1.0.3
